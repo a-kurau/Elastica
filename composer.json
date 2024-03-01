@@ -1,5 +1,5 @@
 {
-    "name": "ruflin/elastica",
+    "name": "a-kurau/elastica",
     "description": "Elasticsearch Client",
     "license": "MIT",
     "type": "library",
